@@ -1,0 +1,6 @@
+moderngl
+moderngl-window
+PySide6
+numpy
+opencv-python
+PyOpenGL
